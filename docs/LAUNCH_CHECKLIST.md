@@ -60,6 +60,15 @@ Draft files prepared. Nothing was published.
 
 Public only after Faith review. Keep the private core repo private.
 
+## Remote Reconciliation
+
+- GitHub CLI available.
+- GitHub auth valid for `thefayth` when proxy environment variables are cleared
+  for the command process.
+- Remote URL confirmed as `https://github.com/thefayth/big-stick.git`.
+- Local export HEAD matched remote HEAD before the final receipt update.
+- No versioned `-v2` repository is needed for this pass.
+
 ## Recommended Repo Name
 
 `thefayth/big-stick`

@@ -6,6 +6,8 @@ Initial prep: 2026-06-18, America/Los_Angeles.
 
 Updated brief completion: 2026-06-19.
 
+Final remote reconciliation: 2026-06-19, America/Los_Angeles.
+
 ## Working Directory
 
 Private Big Stick workspace. The private workspace path is intentionally not
@@ -113,6 +115,16 @@ workflows, or private screenshots were copied into the public surface.
 - Initial commit pushed: `fc20b78` (`Create protected public project surface`).
 - Updated receipt commit pushed: `8886cca` (`Polish public receipt boundaries`).
 - Updated brief completion commit pushed: `495d513` (`Complete updated public export brief`).
+- Visual/asset hardening commits are present locally and remotely through
+  `0994f217e8d3def40e0a719869e631116ba2d047`
+  (`Tighten visual discovery audit`).
+- Final remote reconciliation confirmed `origin` points to
+  `https://github.com/thefayth/big-stick.git` and local HEAD matched remote
+  HEAD before this final receipt update.
+- GitHub CLI authentication was valid for `thefayth` after clearing the local
+  proxy environment variables for the check process. The shell still exposed
+  `*_PROXY` values pointing at `127.0.0.1:9`, so final GitHub commands were
+  run with those process variables cleared.
 - Repository topics set: `public-record`, `evidence-boundaries`, `local-first`,
   `archive-workflows`, `redaction`, `operator-tools`, `faith-cheltenham`.
 - Issues and wiki disabled.
