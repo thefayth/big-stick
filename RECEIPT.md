@@ -17,9 +17,13 @@ PREPARE_ONLY.
 Created a protected public-facing staging surface for Big Stick under
 `_public_surface/big-stick/`.
 
-No GitHub repo was created. No WordPress page was published. No source code,
-private data, credentials, receipts, legal strategy, operational workflows, or
-private screenshots were copied into the public surface.
+Created and populated the public GitHub repository:
+
+`https://github.com/thefayth/big-stick`
+
+No WordPress page was published. No private app source, private data,
+credentials, legal strategy, operational workflows, or private screenshots were
+copied into the public surface.
 
 ## What I Inspected
 
@@ -59,13 +63,17 @@ private screenshots were copied into the public surface.
 
 ## Safety Check Results
 
-- Staged public surface contains 26 files.
+- Initial PREPARE_ONLY staged public surface contained 26 files.
 - Secret-shaped value scan on `_public_surface/big-stick/` found no matches.
 - Source/env/build/runtime file scan found no staged source code, `.env`,
   `storage`, `deploy`, `scripts`, `desktop`, `.next`, `.desktop-app`,
   `dist-desktop`, or `node_modules` files.
-- Current project folder is not a Git repository, so no branch, commit, remote,
-  push, or public repo action was performed.
+- Updated GitHub-ready surface contains 40 files.
+- GitHub repository created: `thefayth/big-stick`.
+- Initial commit pushed: `fc20b78` (`Create protected public project surface`).
+- Repository topics set: `public-record`, `evidence-boundaries`, `local-first`,
+  `archive-workflows`, `redaction`, `operator-tools`, `faith-cheltenham`.
+- Issues and wiki disabled.
 
 ## What I Intentionally Did Not Touch
 
@@ -86,11 +94,12 @@ strategy memos.
 
 ## Public Repo Recommendation
 
-Recommended only after Faith review.
+Created: `thefayth/big-stick`
 
-Suggested repo: `thefayth/big-stick`
+URL: `https://github.com/thefayth/big-stick`
 
-Push only the contents of `_public_surface/big-stick/`, not the project root.
+Only the contents of `_public_surface/big-stick/` were pushed. The private app
+root was not pushed.
 
 ## WordPress Page Recommendation
 
@@ -130,8 +139,10 @@ Get-ChildItem -Recurse _public_surface\big-stick
 ```
 
 Optional future public repo creation after Faith review only:
+The public repository already exists. Future commands should be review/update
+only.
 
 ```powershell
-# Do not run until Faith explicitly approves public repo creation.
 cd C:\Users\faith\Documents\_X\_D\bigstick\_public_surface\big-stick
+git status --short
 ```
