@@ -97,6 +97,7 @@ copied into the public surface.
 - GitHub repository created: `thefayth/big-stick`.
 - Initial commit pushed: `fc20b78` (`Create protected public project surface`).
 - Updated receipt commit pushed: `8886cca` (`Polish public receipt boundaries`).
+- Updated brief completion commit pushed: `495d513` (`Complete updated public export brief`).
 - Repository topics set: `public-record`, `evidence-boundaries`, `local-first`,
   `archive-workflows`, `redaction`, `operator-tools`, `faith-cheltenham`.
 - Issues and wiki disabled.
