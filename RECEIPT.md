@@ -6,11 +6,12 @@
 
 ## Working Directory
 
-`C:\Users\faith\Documents\_X\_D\bigstick`
+Private Big Stick workspace. The private workspace path is intentionally not
+published as project documentation.
 
 ## Run Mode
 
-PREPARE_ONLY.
+PUBLIC_SURFACE_CREATED_AND_PUSHED.
 
 ## Summary
 
@@ -77,8 +78,6 @@ copied into the public surface.
 
 ## What I Intentionally Did Not Touch
 
-- No Git commit.
-- No GitHub repo creation.
 - No WordPress publishing or staging write.
 - No deployment, DNS, webhook, Stripe, database, server, or production config.
 - No source code export.
@@ -125,24 +124,16 @@ Public surface readiness: READY AFTER FAITH REVIEW.
 ## Open Questions For Faith
 
 - Should the public page slug be `/projects/big-stick/` or `/big-stick/`?
-- Should the public repo be named `thefayth/big-stick`?
 - Should the public story name Fightback, Unburied, and Listen Up explicitly?
 - Should visuals be generated now from the image prompts?
 
-## Next Exact Commands, If Faith Chooses To Proceed
+## Next Exact Review Steps
 
-Review staged files:
+Review the public repository:
 
-```powershell
-cd C:\Users\faith\Documents\_X\_D\bigstick
-Get-ChildItem -Recurse _public_surface\big-stick
-```
+- `https://github.com/thefayth/big-stick`
+- Confirm the README, diagrams, ownership terms, and WordPress draft copy.
+- Decide whether to publish the WordPress page draft.
 
-Optional future public repo creation after Faith review only:
-The public repository already exists. Future commands should be review/update
-only.
-
-```powershell
-cd C:\Users\faith\Documents\_X\_D\bigstick\_public_surface\big-stick
-git status --short
-```
+Future repo work should be review/update only unless Faith explicitly approves a
+new publishing or production action.
