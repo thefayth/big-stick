@@ -1,0 +1,10 @@
+flowchart LR
+  A["Incoming public-safe context"] --> B["Command review"]
+  C["Private records and transcripts"] --> D["Protected vault"]
+  D --> E["Review and redaction"]
+  B --> E
+  E --> F["Approved public record"]
+  E --> G["Private exports"]
+  H["AI draft support"] --> E
+  E --> I["Receipts and provenance"]
+

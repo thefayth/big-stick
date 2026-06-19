@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Big Stick workflow overview</title>
+  <desc id="desc">Public-safe diagram showing private records, command review, review and redaction, approved public record, private exports, and receipts.</desc>
+  <rect width="1200" height="720" fill="#111318"/>
+  <rect x="54" y="54" width="1092" height="612" rx="18" fill="#f3ead8"/>
+  <text x="96" y="118" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#111318">Big Stick Workflow Overview</text>
+  <text x="96" y="154" font-family="Arial, sans-serif" font-size="18" fill="#414042">Public-safe abstraction. Private engine remains protected.</text>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#111318">
+    <rect x="96" y="220" width="210" height="92" rx="10" fill="#ffffff" stroke="#34363d" stroke-width="2"/>
+    <text x="122" y="258" font-weight="700">Public-safe context</text>
+    <text x="122" y="286" fill="#555">Signals and story</text>
+    <rect x="96" y="402" width="210" height="92" rx="10" fill="#ffffff" stroke="#34363d" stroke-width="2"/>
+    <text x="122" y="440" font-weight="700">Private records</text>
+    <text x="122" y="468" fill="#555">Vault and transcripts</text>
+    <rect x="420" y="310" width="230" height="110" rx="10" fill="#20242c" stroke="#9f2d27" stroke-width="3"/>
+    <text x="454" y="350" fill="#fff" font-weight="700">Review boundary</text>
+    <text x="454" y="380" fill="#f3ead8">Redaction</text>
+    <text x="454" y="406" fill="#f3ead8">Approval and receipts</text>
+    <rect x="770" y="220" width="240" height="92" rx="10" fill="#ffffff" stroke="#34363d" stroke-width="2"/>
+    <text x="800" y="258" font-weight="700">Approved public record</text>
+    <text x="800" y="286" fill="#555">Reviewed summaries</text>
+    <rect x="770" y="402" width="240" height="92" rx="10" fill="#ffffff" stroke="#34363d" stroke-width="2"/>
+    <text x="800" y="440" font-weight="700">Private exports</text>
+    <text x="800" y="468" fill="#555">Controlled handoff</text>
+    <rect x="420" y="528" width="230" height="62" rx="10" fill="#d6b15d" stroke="#34363d" stroke-width="2"/>
+    <text x="458" y="566" font-weight="700">Provenance ledger</text>
+  </g>
+  <g stroke="#9f2d27" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <path d="M306 266 C356 266 370 348 420 348"/>
+    <path d="M306 448 C356 448 370 384 420 384"/>
+    <path d="M650 348 C704 348 716 266 770 266"/>
+    <path d="M650 384 C704 384 716 448 770 448"/>
+    <path d="M535 420 L535 528"/>
+  </g>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#9f2d27"/>
+    </marker>
+  </defs>
+</svg>
+

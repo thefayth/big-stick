@@ -1,0 +1,22 @@
+flowchart TB
+  subgraph Public["Public Surface"]
+    P1["Project story"]
+    P2["Approved summaries"]
+    P3["Abstract visuals"]
+  end
+  subgraph Review["Review Boundary"]
+    R1["Redaction"]
+    R2["Approval"]
+    R3["Receipts"]
+  end
+  subgraph Private["Protected System"]
+    V1["Source code"]
+    V2["Raw records"]
+    V3["Transcripts"]
+    V4["Prompts and workflows"]
+    V5["Credentials and deployments"]
+  end
+  Private --> Review
+  Review --> Public
+  Private -. "stays private by default" .-> Private
+

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Big Stick public/private boundary</title>
+  <desc id="desc">Diagram showing a protected private system, review boundary, and public surface.</desc>
+  <rect width="1200" height="720" fill="#101217"/>
+  <text x="70" y="90" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#f3ead8">Public Surface. Private Engine.</text>
+  <text x="70" y="128" font-family="Arial, sans-serif" font-size="18" fill="#d6b15d">Big Stick publishes only what survives review.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="190" width="300" height="380" rx="16" fill="#171b22" stroke="#d6b15d" stroke-width="3"/>
+    <text x="105" y="242" font-size="26" font-weight="700" fill="#f3ead8">Protected System</text>
+    <text x="105" y="296" font-size="18" fill="#fff">Source code</text>
+    <text x="105" y="334" font-size="18" fill="#fff">Raw records</text>
+    <text x="105" y="372" font-size="18" fill="#fff">Transcripts</text>
+    <text x="105" y="410" font-size="18" fill="#fff">Private workflows</text>
+    <text x="105" y="448" font-size="18" fill="#fff">Credentials</text>
+    <text x="105" y="506" font-size="16" fill="#d6b15d">Default: stays private</text>
+    <rect x="450" y="230" width="300" height="300" rx="16" fill="#f3ead8" stroke="#9f2d27" stroke-width="4"/>
+    <text x="492" y="286" font-size="26" font-weight="700" fill="#111318">Review Boundary</text>
+    <text x="492" y="348" font-size="18" fill="#111318">Redaction</text>
+    <text x="492" y="386" font-size="18" fill="#111318">Approval</text>
+    <text x="492" y="424" font-size="18" fill="#111318">Receipt check</text>
+    <text x="492" y="480" font-size="16" fill="#9f2d27">No bypass</text>
+    <rect x="830" y="190" width="300" height="380" rx="16" fill="#ffffff" stroke="#34363d" stroke-width="3"/>
+    <text x="870" y="242" font-size="26" font-weight="700" fill="#111318">Public Surface</text>
+    <text x="870" y="296" font-size="18" fill="#111318">Project story</text>
+    <text x="870" y="334" font-size="18" fill="#111318">Approved summaries</text>
+    <text x="870" y="372" font-size="18" fill="#111318">Abstract visuals</text>
+    <text x="870" y="410" font-size="18" fill="#111318">Inquiry path</text>
+    <text x="870" y="506" font-size="16" fill="#9f2d27">No source release</text>
+  </g>
+  <g stroke="#9f2d27" stroke-width="5" fill="none" marker-end="url(#arrow)">
+    <path d="M370 380 L450 380"/>
+    <path d="M750 380 L830 380"/>
+  </g>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#9f2d27"/>
+    </marker>
+  </defs>
+</svg>
+
