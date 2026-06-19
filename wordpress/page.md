@@ -51,10 +51,15 @@ page.
 ## Visual Gallery
 
 - `assets/banners/big-stick-github-banner.svg`
+- `assets/banners/github-banner.png`
+- `assets/hero/hero-image.png`
 - `assets/gallery/big-stick-logo-mark.svg`
 - `assets/gallery/big-stick-hero-panel.svg`
+- `assets/gallery/big-stick-project-icon.png`
 - `assets/gallery/big-stick-wordpress-featured.svg`
+- `assets/icons/project-icon.png`
 - `assets/social/big-stick-social-card.svg`
+- `assets/social/social-card.png`
 - `assets/diagrams/workflow-overview.svg`
 - `assets/diagrams/public-private-boundary.svg`
 

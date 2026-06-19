@@ -10,7 +10,10 @@
 - `CONTRIBUTING.md`
 - `docs/*.md`
 - `assets/README.md`
+- `assets/hero/*`
+- `assets/icons/*`
 - `assets/gallery/*.svg`
+- `assets/gallery/*.png`
 - `assets/gallery/README.md`
 - `assets/image-prompts/*.md`
 - `wordpress/*.md`
@@ -39,8 +42,9 @@ Proprietary all-rights-reserved notice prepared. No permissive license granted.
 
 ## Image Status
 
-Image asset audit completed. Existing Big Stick public brand SVGs were selected
-for the visual gallery, and a public-safe WordPress featured SVG was prepared.
+Image asset audit completed. Existing Big Stick project visuals were copied
+into `assets/hero/`, `assets/banners/`, `assets/social/`, `assets/gallery/`,
+and `assets/icons/`. PNG versions were rendered from public-safe source visuals.
 No private screenshot publication was performed.
 
 ## WordPress Page Status

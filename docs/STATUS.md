@@ -20,9 +20,9 @@ Draft files prepared for FaithCheltenham.com. Not published.
 
 ## Visual Asset Status
 
-Existing Big Stick public brand SVGs were selected for the public gallery.
-Image brief, prompt pack, workflow diagrams, GitHub banner, social card, and
-WordPress featured image are prepared. No private screenshots or real records
+Existing Big Stick project visuals were selected and copied into the public
+asset package. Hero, banner, social, icon, gallery, workflow, image brief, and
+Canva asset plan files are prepared. No private screenshots or real records
 were copied.
 
 ## GitHub / Repo Status

@@ -41,9 +41,12 @@ Created and populated the public GitHub repository:
 `_github_public_export/` is now the canonical public export working tree
 required by the updated brief.
 
-No WordPress page was published. No private app source, private data,
-credentials, legal strategy, operational workflows, or private screenshots were
-copied into the public surface.
+No WordPress page was published. Public-safe PNG assets were rendered from
+existing project visuals and abstract SVGs. Existing Big Stick project icon
+artwork was copied into the public icon and gallery asset folders.
+
+No private app source, private data, credentials, legal strategy, operational
+workflows, or private screenshots were copied into the public surface.
 
 ## What I Inspected
 
@@ -76,10 +79,15 @@ copied into the public surface.
 - `docs/ROADMAP.md`
 - `docs/IMAGE_BRIEF.md`
 - `docs/IMAGE_ASSET_AUDIT.md`
+- `docs/CANVA_ASSET_PLAN.md`
 - `docs/WORDPRESS_PAGE_DRAFT.md`
 - `docs/LAUNCH_CHECKLIST.md`
 - `docs/PRIVACY_AND_SAFETY_REVIEW.md`
 - `assets/README.md`
+- public-safe hero assets under `assets/hero/`
+- public-safe banner assets under `assets/banners/`
+- public-safe social assets under `assets/social/`
+- public-safe icon assets under `assets/icons/`
 - public-safe gallery assets under `assets/gallery/`
 - workflow diagrams under `assets/diagrams/`
 - image prompt files under `assets/image-prompts/`
@@ -93,7 +101,7 @@ copied into the public surface.
 - Source/env/build/runtime file scan found no staged source code, `.env`,
   `storage`, `deploy`, `scripts`, `desktop`, `.next`, `.desktop-app`,
   `dist-desktop`, or `node_modules` files.
-- Updated GitHub-ready surface contains 45 public files.
+- Updated GitHub-ready surface contains 55 public files.
 - GitHub repository created: `thefayth/big-stick`.
 - Initial commit pushed: `fc20b78` (`Create protected public project surface`).
 - Updated receipt commit pushed: `8886cca` (`Polish public receipt boundaries`).
@@ -111,7 +119,7 @@ copied into the public surface.
 - No deployment, DNS, webhook, Stripe, database, server, or production config.
 - No source code export.
 - No private storage export.
-- No image generation from private screenshots.
+- No private screenshot generation or publication.
 
 ## What Must Stay Private
 
@@ -140,11 +148,18 @@ Do not publish until Faith approves final copy and visuals.
 
 Use the selected public-safe visual package:
 
+- `assets/hero/hero-image.png`
+- `assets/hero/hero-image.svg`
+- `assets/icons/project-icon.png`
+- `assets/icons/project-icon-mark.png`
+- `assets/gallery/big-stick-project-icon.png`
 - `assets/gallery/big-stick-logo-mark.svg`
 - `assets/gallery/big-stick-hero-panel.svg`
 - `assets/gallery/big-stick-wordpress-featured.svg`
 - `assets/banners/big-stick-github-banner.svg`
+- `assets/banners/github-banner.png`
 - `assets/social/big-stick-social-card.svg`
+- `assets/social/social-card.png`
 - workflow diagrams under `assets/diagrams/`
 
 Do not use private screenshots or real records.
@@ -161,8 +176,6 @@ Public surface readiness: READY AFTER FAITH REVIEW.
 
 - Should the public page slug be `/projects/big-stick/` or `/big-stick/`?
 - Should the public story name Fightback, Unburied, and Listen Up explicitly?
-- Should the PNG app icons be approved for public reuse, or should the public
-  surface stay SVG-only?
 
 ## Next Exact Review Steps
 

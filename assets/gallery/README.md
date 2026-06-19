@@ -7,6 +7,8 @@ surface.
 
 - `big-stick-logo-mark.svg` - project icon and compact identity mark.
 - `big-stick-hero-panel.svg` - hero image from existing Big Stick brand assets.
+- `big-stick-project-icon.png` - primary illustrated project icon from existing
+  Big Stick brand assets.
 - `big-stick-wordpress-featured.svg` - prepared WordPress featured image.
 
 ## Not Included

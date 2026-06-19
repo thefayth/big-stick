@@ -2,6 +2,8 @@
 
 ![Big Stick public project banner](assets/banners/big-stick-github-banner.svg)
 
+![Big Stick hero image](assets/hero/hero-image.png)
+
 Big Stick is a protected local command center for organizing public-record work,
 private evidence review, transcript intake, archive retrieval, AI-assisted
 drafts, and export readiness without collapsing private material into public
@@ -9,8 +11,6 @@ view.
 
 This repository is a protected public project surface. It is not the full
 source code, operational system, private workflow, or data room.
-
-![Big Stick command-board hero artwork](assets/gallery/big-stick-hero-panel.svg)
 
 ## How It Works
 
@@ -77,10 +77,14 @@ published. Public materials are ready for Faith review.
 ## Visual Assets
 
 - [GitHub banner](assets/banners/big-stick-github-banner.svg)
+- [GitHub banner PNG](assets/banners/github-banner.png)
+- [Hero image](assets/hero/hero-image.png)
 - [Project icon](assets/gallery/big-stick-logo-mark.svg)
+- [Illustrated project icon](assets/icons/project-icon.png)
 - [Hero panel](assets/gallery/big-stick-hero-panel.svg)
 - [WordPress featured image](assets/gallery/big-stick-wordpress-featured.svg)
 - [Social card](assets/social/big-stick-social-card.svg)
+- [Social card PNG](assets/social/social-card.png)
 
 ## Respectful Inquiry
 
@@ -96,5 +100,6 @@ No public license, download, checkout, price, or access grant is provided here.
 - [Workflow diagrams](docs/WORKFLOW_DIAGRAMS.md)
 - [Brand style notes](docs/BRAND_STYLE_NOTES.md)
 - [Image asset audit](docs/IMAGE_ASSET_AUDIT.md)
+- [Canva asset plan](docs/CANVA_ASSET_PLAN.md)
 - [Privacy review](docs/PRIVACY_REVIEW.md)
 - [WordPress page draft](wordpress/page.md)

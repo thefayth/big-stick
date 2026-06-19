@@ -24,7 +24,7 @@ Status: draft only. Do not publish without Faith approval.
 
 ## Featured Image Recommendation
 
-Use `assets/gallery/big-stick-wordpress-featured.svg`.
+Use `assets/hero/hero-image.png`.
 
 Alt text: Abstract Big Stick command-board artwork with review, redaction,
 publishing, and receipt motifs.

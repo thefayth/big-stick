@@ -14,7 +14,7 @@ Social title: Big Stick
 
 Social description: Public surface. Private engine. Receipts always.
 
-Featured image recommendation: `assets/gallery/big-stick-wordpress-featured.svg`
+Featured image recommendation: `assets/hero/hero-image.png`
 
 Alt text: Abstract Big Stick command-board artwork with review, redaction,
 publishing, and receipt motifs.

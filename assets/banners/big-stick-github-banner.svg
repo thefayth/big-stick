@@ -10,7 +10,7 @@
   <rect x="116" y="230" width="118" height="14" fill="#f3ead8"/>
   <rect x="116" y="264" width="76" height="14" fill="#9f2d27"/>
   <text x="350" y="168" font-family="Arial, sans-serif" font-size="64" font-weight="800" fill="#111318">Big Stick</text>
-  <text x="354" y="220" font-family="Arial, sans-serif" font-size="26" fill="#34363d">Protected public-record and evidence command surface</text>
+  <text x="354" y="220" font-family="Arial, sans-serif" font-size="24" fill="#34363d">Public-record and evidence command surface</text>
   <text x="354" y="276" font-family="Arial, sans-serif" font-size="20" fill="#9f2d27">Public surface. Private engine. Receipts always.</text>
   <g fill="none" stroke="#34363d" stroke-width="2" opacity="0.7">
     <path d="M910 96 L1120 96 L1120 320 L910 320 Z"/>

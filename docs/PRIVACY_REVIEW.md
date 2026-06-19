@@ -58,9 +58,9 @@ No values were copied into this public surface.
 
 ## Image Safety
 
-The included SVGs are public-safe brand and abstract project assets. They
-contain no real records, names, IDs, routes, addresses, screenshots,
-credentials, or case details.
+The included SVG and PNG assets are public-safe brand and abstract project
+assets. They contain no real records, names, IDs, routes, addresses,
+screenshots, credentials, or case details.
 
 Detailed image review is recorded in `docs/IMAGE_ASSET_AUDIT.md`.
 
