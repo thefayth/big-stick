@@ -86,6 +86,12 @@ published. Public materials are ready for Faith review.
 - [Social card](assets/social/big-stick-social-card.svg)
 - [Social card PNG](assets/social/social-card.png)
 
+## Visual Gallery
+
+![Big Stick illustrated project icon](assets/icons/project-icon.png)
+
+![Big Stick command-board gallery panel](assets/gallery/big-stick-hero-panel.svg)
+
 ## Respectful Inquiry
 
 For private discussion, partnership review, press/background context, or future

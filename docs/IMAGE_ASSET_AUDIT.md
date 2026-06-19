@@ -13,12 +13,28 @@ Inspected candidate locations by category:
 - `public/brand/fightback/`
 - `public/brand/unburied/`
 - `desktop/assets/`
+- `.desktop-app/desktop/assets/`
 - `docs/brand/auntie-ai/*/receipts/screenshots/`
+- `docs/brand/auntie-ai/*/assets/exports/`
+- `wordpress/`
+- `canva/`, `pitch/`, `pitch-deck/`, `deck/`, `slides/`, `coai/`, and
+  similarly named folders when present
 - existing public export assets under `assets/`
 - default framework assets under `public/`
 
 No private screenshots, raw records, legal/admin files, transcripts, receipts,
 or local route captures were copied.
+
+## Discovery Notes
+
+- No separate Canva export folder was found in this project tree.
+- No pitch deck, slide deck, PDF, or PPTX visual package was found in this
+  project tree.
+- No COAI asset folder was found in this project tree.
+- Auntie AI export folders existed but contained only placeholder `.gitkeep`
+  files, so there was no public visual asset to copy from them.
+- WordPress draft files existed and now point to the selected public-safe hero
+  image.
 
 ## Selected Assets
 
@@ -42,6 +58,7 @@ or local route captures were copied.
 | Source path | Reason | Rating |
 | --- | --- | --- |
 | `docs/brand/auntie-ai/*/receipts/screenshots/*.png` | Local design and route screenshots can expose protected route state and private workflow context. | PRIVATE / DO NOT USE |
+| `docs/brand/auntie-ai/*/assets/exports/.gitkeep` | Placeholder only; no visual content to publish. | PRIVATE / DO NOT USE |
 | `docs/brand/auntie-ai/**` | Provenance and design-office receipts belong in private documentation, not the public repo. | PRIVATE / DO NOT USE |
 | `public/brand/fightback/*` | Reserved for a future public Fightback/Big Stick sub-area page if Faith chooses to feature it. | WORDPRESS ONLY |
 | `public/brand/unburied/*` | Reserved for a future public Unburied/Big Stick sub-area page if Faith chooses to feature it. | WORDPRESS ONLY |

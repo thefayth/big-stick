@@ -55,6 +55,10 @@ workflows, or private screenshots were copied into the public surface.
 - Top-level project tree.
 - README and package metadata.
 - Existing docs and public brand assets.
+- WordPress draft materials.
+- Canva, pitch deck, slide deck, PDF/PPTX, COAI, public, static, export, and
+  named visual asset categories where present.
+- Auntie AI asset export folders.
 - Existing image candidates in public brand, desktop asset, generated brand
   receipt, and existing public export folders.
 - Text references to Big Stick, Fightback, Unburied, Listen Up, AI Console,
@@ -98,6 +102,9 @@ workflows, or private screenshots were copied into the public surface.
 
 - Earlier preparation pass staged 26 public-surface files.
 - Secret-shaped value scan on the public export found no matches.
+- No separate Canva export, COAI asset folder, pitch deck, slide deck, PDF, or
+  PPTX visual package was found in the project tree.
+- Auntie AI asset export folders contained placeholder `.gitkeep` files only.
 - Source/env/build/runtime file scan found no staged source code, `.env`,
   `storage`, `deploy`, `scripts`, `desktop`, `.next`, `.desktop-app`,
   `dist-desktop`, or `node_modules` files.
