@@ -12,7 +12,7 @@
 
 ## Files Created
 
-All created files are under `_public_surface/big-stick/`.
+All public export files are under `_github_public_export/`.
 
 ## Sensitive Categories Found
 
@@ -59,7 +59,8 @@ Values were not displayed or copied into the public surface.
 
 - No claim that Big Stick is publicly available.
 - No claim that Big Stick gives legal advice.
-- No claim that a public repo or WordPress page exists.
+- No claim that the private app source is public.
+- No claim that a WordPress page is published.
 - No claim that pilots, licensing, downloads, pricing, or services are open.
 - No claim about private facts, records, legal strategy, or outcomes.
 
@@ -81,7 +82,7 @@ screenshots, or operational details.
 
 ## GitHub Safe / Not Safe
 
-Safe after Faith review: this staged public surface only.
+Safe after Faith review: this public export surface only.
 
 Not safe: the private project root or any source/data/build/runtime folders.
 

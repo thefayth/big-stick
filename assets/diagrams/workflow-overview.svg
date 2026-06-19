@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
   <title id="title">Big Stick workflow overview</title>
-  <desc id="desc">Public-safe diagram showing private records, command review, review and redaction, approved public record, private exports, and receipts.</desc>
+  <desc id="desc">Public-safe diagram showing user inputs, private records, command review, review and redaction, approved public record, GitHub and WordPress public surfaces, private exports, and receipts.</desc>
   <rect width="1200" height="720" fill="#111318"/>
   <rect x="54" y="54" width="1092" height="612" rx="18" fill="#f3ead8"/>
   <text x="96" y="118" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#111318">Big Stick Workflow Overview</text>
@@ -17,8 +17,9 @@
     <text x="454" y="380" fill="#f3ead8">Redaction</text>
     <text x="454" y="406" fill="#f3ead8">Approval and receipts</text>
     <rect x="770" y="220" width="240" height="92" rx="10" fill="#ffffff" stroke="#34363d" stroke-width="2"/>
-    <text x="800" y="258" font-weight="700">Approved public record</text>
-    <text x="800" y="286" fill="#555">Reviewed summaries</text>
+    <text x="800" y="252" font-weight="700">Approved public record</text>
+    <text x="800" y="280" fill="#555">Reviewed summaries</text>
+    <text x="800" y="304" fill="#9f2d27" font-size="15">GitHub + WordPress</text>
     <rect x="770" y="402" width="240" height="92" rx="10" fill="#ffffff" stroke="#34363d" stroke-width="2"/>
     <text x="800" y="440" font-weight="700">Private exports</text>
     <text x="800" y="468" fill="#555">Controlled handoff</text>

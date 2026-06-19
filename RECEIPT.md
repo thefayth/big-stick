@@ -1,8 +1,10 @@
-# Receipt: Big Stick Public Surface Prep
+# Receipt: Big Stick Public Surface
 
 ## Date/Time
 
-2026-06-18, America/Los_Angeles.
+Initial prep: 2026-06-18, America/Los_Angeles.
+
+Updated brief completion: 2026-06-19.
 
 ## Working Directory
 
@@ -11,16 +13,33 @@ published as project documentation.
 
 ## Run Mode
 
-PUBLIC_SURFACE_CREATED_AND_PUSHED.
+PUBLIC_SURFACE_CREATED_AND_PUSHED_FROM_EXPORT_FOLDER.
+
+## Project / Repository
+
+Project name: Big Stick.
+
+Base project slug: `big-stick`.
+
+Chosen repo slug: `big-stick`.
+
+Version status: canonical first public surface.
+
+Repository name: `thefayth/big-stick`.
+
+Repository URL: `https://github.com/thefayth/big-stick`.
 
 ## Summary
 
-Created a protected public-facing staging surface for Big Stick under
-`_public_surface/big-stick/`.
+Created a protected public-facing export surface for Big Stick under
+`_github_public_export/`.
 
 Created and populated the public GitHub repository:
 
 `https://github.com/thefayth/big-stick`
+
+`_github_public_export/` is now the canonical public export working tree
+required by the updated brief.
 
 No WordPress page was published. No private app source, private data,
 credentials, legal strategy, operational workflows, or private screenshots were
@@ -33,6 +52,8 @@ copied into the public surface.
 - Top-level project tree.
 - README and package metadata.
 - Existing docs and public brand assets.
+- Existing image candidates in public brand, desktop asset, generated brand
+  receipt, and existing public export folders.
 - Text references to Big Stick, Fightback, Unburied, Listen Up, AI Console,
   protected dashboard routes, public pages, and receipts.
 - Sensitive-term scan across the private project tree, excluding heavy build
@@ -54,27 +75,34 @@ copied into the public surface.
 - `docs/FAQ.md`
 - `docs/ROADMAP.md`
 - `docs/IMAGE_BRIEF.md`
+- `docs/IMAGE_ASSET_AUDIT.md`
 - `docs/WORDPRESS_PAGE_DRAFT.md`
 - `docs/LAUNCH_CHECKLIST.md`
 - `docs/PRIVACY_AND_SAFETY_REVIEW.md`
 - `assets/README.md`
+- public-safe gallery assets under `assets/gallery/`
+- workflow diagrams under `assets/diagrams/`
 - image prompt files under `assets/image-prompts/`
 - WordPress draft files under `wordpress/`
 - this receipt.
 
 ## Safety Check Results
 
-- Initial PREPARE_ONLY staged public surface contained 26 files.
-- Secret-shaped value scan on `_public_surface/big-stick/` found no matches.
+- Earlier preparation pass staged 26 public-surface files.
+- Secret-shaped value scan on the public export found no matches.
 - Source/env/build/runtime file scan found no staged source code, `.env`,
   `storage`, `deploy`, `scripts`, `desktop`, `.next`, `.desktop-app`,
   `dist-desktop`, or `node_modules` files.
-- Updated GitHub-ready surface contains 40 files.
+- Updated GitHub-ready surface contains 45 public files.
 - GitHub repository created: `thefayth/big-stick`.
 - Initial commit pushed: `fc20b78` (`Create protected public project surface`).
+- Updated receipt commit pushed: `8886cca` (`Polish public receipt boundaries`).
 - Repository topics set: `public-record`, `evidence-boundaries`, `local-first`,
   `archive-workflows`, `redaction`, `operator-tools`, `faith-cheltenham`.
 - Issues and wiki disabled.
+- Canonical repo slug confirmed as `big-stick`; no versioned `-v2` repo was
+  created because this is the same Big Stick public surface and Faith requested
+  updates to the brief.
 
 ## What I Intentionally Did Not Touch
 
@@ -93,12 +121,11 @@ strategy memos.
 
 ## Public Repo Recommendation
 
-Created: `thefayth/big-stick`
+Created and updated: `thefayth/big-stick`
 
 URL: `https://github.com/thefayth/big-stick`
 
-Only the contents of `_public_surface/big-stick/` were pushed. The private app
-root was not pushed.
+Only public export contents were pushed. The private app root was not pushed.
 
 ## WordPress Page Recommendation
 
@@ -110,8 +137,16 @@ Do not publish until Faith approves final copy and visuals.
 
 ## Image Recommendation
 
-Use original abstract visuals from the prompt pack. Do not use private
-screenshots or real records.
+Use the selected public-safe visual package:
+
+- `assets/gallery/big-stick-logo-mark.svg`
+- `assets/gallery/big-stick-hero-panel.svg`
+- `assets/gallery/big-stick-wordpress-featured.svg`
+- `assets/banners/big-stick-github-banner.svg`
+- `assets/social/big-stick-social-card.svg`
+- workflow diagrams under `assets/diagrams/`
+
+Do not use private screenshots or real records.
 
 ## Risk Notes
 
@@ -125,7 +160,8 @@ Public surface readiness: READY AFTER FAITH REVIEW.
 
 - Should the public page slug be `/projects/big-stick/` or `/big-stick/`?
 - Should the public story name Fightback, Unburied, and Listen Up explicitly?
-- Should visuals be generated now from the image prompts?
+- Should the PNG app icons be approved for public reuse, or should the public
+  surface stay SVG-only?
 
 ## Next Exact Review Steps
 

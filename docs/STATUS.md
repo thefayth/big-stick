@@ -2,7 +2,11 @@
 
 ## Public Docs Status
 
-Prepared locally in `_public_surface/big-stick/`. Not published.
+Published as the canonical first public surface at:
+
+`https://github.com/thefayth/big-stick`
+
+The canonical export working tree is `_github_public_export/`.
 
 ## Private Build Status
 
@@ -16,13 +20,20 @@ Draft files prepared for FaithCheltenham.com. Not published.
 
 ## Visual Asset Status
 
-Image brief and prompt pack prepared. No private screenshots or real records
+Existing Big Stick public brand SVGs were selected for the public gallery.
+Image brief, prompt pack, workflow diagrams, GitHub banner, social card, and
+WordPress featured image are prepared. No private screenshots or real records
 were copied.
 
 ## GitHub / Repo Status
 
-No public GitHub repo was created or updated. Recommended public repo, if Faith
-chooses later: `thefayth/big-stick`.
+Repository created and updated:
+
+`thefayth/big-stick`
+
+Version status: canonical first public surface. No versioned `-v2` repository
+was created because this workspace clearly represents the existing canonical
+Big Stick public surface and Faith instructed this update.
 
 ## Known Blockers
 

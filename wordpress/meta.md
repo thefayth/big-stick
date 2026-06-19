@@ -14,10 +14,10 @@ Social title: Big Stick
 
 Social description: Public surface. Private engine. Receipts always.
 
-Featured image recommendation: `assets/banners/big-stick-github-banner.svg`
+Featured image recommendation: `assets/gallery/big-stick-wordpress-featured.svg`
 
-Alt text: Abstract Big Stick command-board banner with redaction marks, receipt
-motifs, and public/private boundary styling.
+Alt text: Abstract Big Stick command-board artwork with review, redaction,
+publishing, and receipt motifs.
 
 Canonical URL suggestion: `https://faithcheltenham.com/projects/big-stick/`
 

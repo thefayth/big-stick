@@ -58,15 +58,17 @@ No values were copied into this public surface.
 
 ## Image Safety
 
-The included SVGs are abstract original placeholders. They contain no real
-records, names, IDs, routes, addresses, screenshots, credentials, or case
-details.
+The included SVGs are public-safe brand and abstract project assets. They
+contain no real records, names, IDs, routes, addresses, screenshots,
+credentials, or case details.
+
+Detailed image review is recorded in `docs/IMAGE_ASSET_AUDIT.md`.
 
 ## Workflow Safety
 
 Workflow diagrams are intentionally high-level. They show public/private review
-movement without internal architecture, deployment details, or implementation
-paths.
+movement, GitHub, and WordPress draft publication paths without internal
+architecture, deployment details, or implementation paths.
 
 ## Rating
 

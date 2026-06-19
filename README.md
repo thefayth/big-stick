@@ -10,6 +10,8 @@ view.
 This repository is a protected public project surface. It is not the full
 source code, operational system, private workflow, or data room.
 
+![Big Stick command-board hero artwork](assets/gallery/big-stick-hero-panel.svg)
+
 ## How It Works
 
 ![Big Stick workflow overview](assets/diagrams/workflow-overview.svg)
@@ -48,6 +50,7 @@ quickly. Big Stick treats boundaries as part of the product:
 - A high-level project description.
 - A public/private boundary statement.
 - Workflow diagrams and abstract public-safe visuals.
+- A public-safe image asset audit and visual gallery.
 - Public-safe engagement notes.
 - A non-binding roadmap.
 - WordPress-ready draft copy for a possible FaithCheltenham.com project page.
@@ -63,6 +66,22 @@ quickly. Big Stick treats boundaries as part of the product:
   private receipts, screenshots, and operational strategy.
 - Any public publishing, repo creation, or product access decision.
 
+## Current Status
+
+This is the canonical first public surface for Big Stick:
+`thefayth/big-stick`.
+
+The private engine remains closed. The WordPress page is drafted but not
+published. Public materials are ready for Faith review.
+
+## Visual Assets
+
+- [GitHub banner](assets/banners/big-stick-github-banner.svg)
+- [Project icon](assets/gallery/big-stick-logo-mark.svg)
+- [Hero panel](assets/gallery/big-stick-hero-panel.svg)
+- [WordPress featured image](assets/gallery/big-stick-wordpress-featured.svg)
+- [Social card](assets/social/big-stick-social-card.svg)
+
 ## Respectful Inquiry
 
 For private discussion, partnership review, press/background context, or future
@@ -76,5 +95,6 @@ No public license, download, checkout, price, or access grant is provided here.
 - [Public/private boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 - [Workflow diagrams](docs/WORKFLOW_DIAGRAMS.md)
 - [Brand style notes](docs/BRAND_STYLE_NOTES.md)
+- [Image asset audit](docs/IMAGE_ASSET_AUDIT.md)
 - [Privacy review](docs/PRIVACY_REVIEW.md)
 - [WordPress page draft](wordpress/page.md)

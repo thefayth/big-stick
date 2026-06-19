@@ -10,6 +10,8 @@
 - `CONTRIBUTING.md`
 - `docs/*.md`
 - `assets/README.md`
+- `assets/gallery/*.svg`
+- `assets/gallery/README.md`
 - `assets/image-prompts/*.md`
 - `wordpress/*.md`
 - `wordpress/*.html`
@@ -37,8 +39,9 @@ Proprietary all-rights-reserved notice prepared. No permissive license granted.
 
 ## Image Status
 
-Prompt pack prepared. No image generation or private screenshot publication was
-performed.
+Image asset audit completed. Existing Big Stick public brand SVGs were selected
+for the visual gallery, and a public-safe WordPress featured SVG was prepared.
+No private screenshot publication was performed.
 
 ## WordPress Page Status
 
@@ -47,7 +50,6 @@ Draft files prepared. Nothing was published.
 ## Open Questions
 
 - Confirm public page slug.
-- Confirm whether the public repo name should be `thefayth/big-stick`.
 - Confirm whether Fightback, Unburied, and Listen Up should be named publicly.
 
 ## Recommended Repo Visibility
@@ -57,6 +59,8 @@ Public only after Faith review. Keep the private core repo private.
 ## Recommended Repo Name
 
 `thefayth/big-stick`
+
+Version status: canonical first public surface.
 
 ## Recommended Description
 

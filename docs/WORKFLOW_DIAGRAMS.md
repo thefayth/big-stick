@@ -1,6 +1,7 @@
 # Workflow Diagrams
 
-These diagrams are public-safe abstractions. They do not expose source code,
+These diagrams are public-safe abstractions. They show inputs, review layers,
+outputs, GitHub, and the WordPress draft path without exposing source code,
 storage paths, private workflows, credentials, legal strategy, or record
 details.
 

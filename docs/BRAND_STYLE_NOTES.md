@@ -41,3 +41,11 @@ and design receipts under `docs/brand/auntie-ai/`. These remain private project
 source/reference files; this public surface uses only derived public-safe visual
 direction and original abstract SVGs.
 
+## Selected Public Assets
+
+- `assets/gallery/big-stick-logo-mark.svg`
+- `assets/gallery/big-stick-hero-panel.svg`
+- `assets/gallery/big-stick-wordpress-featured.svg`
+- `assets/banners/big-stick-github-banner.svg`
+- `assets/social/big-stick-social-card.svg`
+

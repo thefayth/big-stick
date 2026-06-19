@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
   <title id="title">Big Stick public/private boundary</title>
-  <desc id="desc">Diagram showing a protected private system, review boundary, and public surface.</desc>
+  <desc id="desc">Diagram showing a protected private system, review boundary, GitHub public surface, and WordPress draft surface.</desc>
   <rect width="1200" height="720" fill="#101217"/>
   <text x="70" y="90" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#f3ead8">Public Surface. Private Engine.</text>
   <text x="70" y="128" font-family="Arial, sans-serif" font-size="18" fill="#d6b15d">Big Stick publishes only what survives review.</text>
@@ -24,7 +24,8 @@
     <text x="870" y="296" font-size="18" fill="#111318">Project story</text>
     <text x="870" y="334" font-size="18" fill="#111318">Approved summaries</text>
     <text x="870" y="372" font-size="18" fill="#111318">Abstract visuals</text>
-    <text x="870" y="410" font-size="18" fill="#111318">Inquiry path</text>
+    <text x="870" y="410" font-size="18" fill="#111318">GitHub repo</text>
+    <text x="870" y="448" font-size="18" fill="#111318">WordPress draft</text>
     <text x="870" y="506" font-size="16" fill="#9f2d27">No source release</text>
   </g>
   <g stroke="#9f2d27" stroke-width="5" fill="none" marker-end="url(#arrow)">

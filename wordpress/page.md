@@ -50,10 +50,13 @@ page.
 
 ## Visual Gallery
 
-- `big-stick-github-banner.svg`
-- `big-stick-social-card.svg`
-- `workflow-overview.svg`
-- `public-private-boundary.svg`
+- `assets/banners/big-stick-github-banner.svg`
+- `assets/gallery/big-stick-logo-mark.svg`
+- `assets/gallery/big-stick-hero-panel.svg`
+- `assets/gallery/big-stick-wordpress-featured.svg`
+- `assets/social/big-stick-social-card.svg`
+- `assets/diagrams/workflow-overview.svg`
+- `assets/diagrams/public-private-boundary.svg`
 
 ## Public Materials
 
